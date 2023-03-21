@@ -1,0 +1,50 @@
+package com.example.bootcampodev1
+
+fun main() {
+    val sehir:String ="Şanlıurfa"
+    val ulke:String="Türkiye"
+    val telefon:String="0544 *** ** **"
+    val postaKodu:Int=63000
+    val email:String="msametgul@gmail.com"
+    val meslek:String="Yazılım Mühendisi"
+    val stokMiktari:Int=100
+    val musteriAdi:String="Abdulkadir"
+    val bakiye:Double=100.50
+    val dogumGunu:String="02/10/2002"
+    val maas:Int=8000
+    val medeniDurum:String="Bekar"
+    val urunYorum:String="Ürün çok kullanışlı ve güzeldi"
+    val odemeTarihi:String="22.03.2023"
+    val odeme:Double=255.85
+    val siparisAdeti:Int=1000
+    val arabaModeli:String="Audi-Q7"
+    val kitapAdi:String="George Orwell - Hayvan Çiftliği"
+    val yayinlanmaTarihi:String="17 Ağustos 1945"
+    val indirimMiktari:Int=15
+    val odaSayisi:Int=150
+    val enlem:String="38 E 46"
+    val boylam:String="37 N 08"
+    val urunAdi:String="Dell G15"
+    val yemekFiyati:Double=99.99
+    val marka:String="Nike"
+    val muzikAdi:String="Toy"
+    val videoSuresi:Double=14.52
+    val urunPuani:Double=3.5
+    val resimAdi:String="Portre resim"
+    val dosyaFormati:String="DOCX"
+    val renk:String="Siyah"
+    val renkKodu:String="#000000"
+    val telefonModeli:String="Iphone 11"
+    val ekranBoyutu:Double=6.53
+    val agirlik:String="${1000} gram"
+    val ulusalGun:String="23 Nisan Ulusal Egemenlik ve Çocuk Bayramı"
+    val tatilGunu:String="Pazar"
+    val rezervasyonTarihi:String="25.10.2024"
+    val sokakAdi:String="HacıÖmer"
+    val otobusHatti:String="KİRAZLITEPE - ACIBADEM - KADIKÖY"
+    val kalanDakika:Int=50
+    val takipKodu:String="245975322152"
+    val kuponSuresi:String="50 Gün"
+    val kuponKodu:String="1232125412541"
+    val faturaAdresi:String="Beşiktaş/İstanbul"
+}
